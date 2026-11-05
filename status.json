@@ -1,11 +1,10 @@
 {
-  "online": false,
-  "name": "",
-  "map": "",
-  "players": 0,
-  "max_players": 32,
-  "bots": 0,
-  "ping": null,
-  "error": "timed out",
-  "checked_at": 1793850902
+  "online": true,
+  "name": "5.173.173.13:27015",
+  "map": "[M.i.T] Pro [ MİTAİLESİ ]",
+  "players": 84,
+  "max_players": 115,
+  "bots": 51,
+  "ping": 135,
+  "checked_at": 1793879021
 }
